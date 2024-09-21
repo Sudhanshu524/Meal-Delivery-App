@@ -64,3 +64,61 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Some UI Pages
+Home Page
+![image](https://github.com/user-attachments/assets/47cb8c30-c52a-4075-af9f-0b9d51b6719c)
+
+About Us
+![image](https://github.com/user-attachments/assets/db7c8380-d2a8-4392-972f-5fd9c15b169e)
+
+Contact Us
+![image](https://github.com/user-attachments/assets/4b3c7a6a-c427-4847-be8f-7953fe0d94ba)
+
+Registration and Login Page
+![image](https://github.com/user-attachments/assets/a59f1f66-34e2-460d-ac0a-da0aec84f482)
+![image](https://github.com/user-attachments/assets/b3b57b70-38bb-4a37-8342-d757f8dde69f)
+
+Partnner Functionalities
+1. Dashboard
+![image](https://github.com/user-attachments/assets/1fbac355-1413-4cbf-8316-4d5f1fdb39fb)
+
+2. Menu Creation
+![image](https://github.com/user-attachments/assets/6f814175-e36a-4788-a4b2-412eb14248a0)
+
+User Functionalities
+1. Dashboard
+![image](https://github.com/user-attachments/assets/375a2e1b-51ff-414f-a76d-a69c8793a0e9)
+
+2. Meal Details
+![image](https://github.com/user-attachments/assets/5232ef1b-2791-4dda-80ee-9970155db020)
+
+3. Placing Order
+![image](https://github.com/user-attachments/assets/ef11f4b5-a059-4a88-a8fc-12342fe377a9)
+![image](https://github.com/user-attachments/assets/65051040-9b90-4438-8ca5-b391ad3a4deb)
+
+Voluteer Functionalities
+1. Order Details
+![image](https://github.com/user-attachments/assets/593c1239-7b65-4b4a-9510-5b9e0c720987)
+
+2. Tracking Orders
+![image](https://github.com/user-attachments/assets/bb18a9c5-3e4c-4c0d-bfe5-d5f50efedf13)
+
+Donors Functionalities
+1. Payment Box
+![image](https://github.com/user-attachments/assets/714189fe-c0b6-4d8e-8fd5-3d061047da5b)
+![image](https://github.com/user-attachments/assets/ba40725a-010b-4289-8e8f-5537426dd43e)
+
+
+
+
+
+
+
+
+
+
+
+
+
